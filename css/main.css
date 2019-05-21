@@ -1139,7 +1139,7 @@ input::-moz-focus-inner {
   margin-bottom: 1.2rem;
 }
 .section-intro h5 {
-  color: #ff0077;
+  color: #008cff;
   font-size: 1.6rem;
   line-height: 1.875;
   margin-bottom: 0.3rem;
@@ -1196,7 +1196,7 @@ header .top-bar {
   min-width: 220px;
   min-height: 66px;
   position: absolute;
-  left: 90px;
+  left: 0;
   top: 0;
 }
 header .logo {
@@ -1235,7 +1235,7 @@ header .logo a {
 }
 .menu-toggle span {
   display: block;
-  background-color: #ff0077;
+  background-color: #008cff;
   width: 24px;
   height: 3px;
   margin-top: -1.5px;
@@ -1437,7 +1437,7 @@ header .logo a {
   text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 .intro-content h5 {
-  color: #cc005f;
+  color: #008cff;
   font-family: "poppins-bold", sans-serif;
   font-size: 2.3rem;
   line-height: 1.565;
@@ -1485,7 +1485,7 @@ header .logo a {
 }
 .intro-content .button:hover,
 .intro-content .button:focus {
-  border-color: #cc005f;
+  border-color: #008cff;
 }
 .intro-content .button::after {
   display: inline-block;
@@ -1519,7 +1519,7 @@ header .logo a {
 }
 .intro-social li a:hover,
 .intro-social li a:focus {
-  color: #cc005f;
+  color: #008cff;
 }
 
 /**
@@ -1733,7 +1733,7 @@ header .logo a {
   text-align: center;
 }
 #resume .resume-header h2 {
-  color: #ff0077;
+  color: #008cff;
 }
 
 #resume .resume-timeline {
@@ -2061,7 +2061,7 @@ header .logo a {
   border-right: 1px solid rgba(200, 200, 200, 0.1);
 }
 .popup-modal .link-box a:hover {
-  background: #cc005f;
+  background: #008cff;
   border: none;
 }
 @media only screen and (max-width: 600px) {
@@ -2361,7 +2361,7 @@ header .logo a {
   color: white;
 }
 #contact .section-intro h5 {
-  color: #ff0077;
+  color: #008cff;
 }
 #contact .section-intro p {
   color: rgba(255, 255, 255, 0.7);
@@ -2415,7 +2415,7 @@ header .logo a {
   padding: 0 2rem;
   margin: 0;
   color: #ffffff;
-  background: #ff0077;
+  background: #008cff;
 }
 #contact form .form-field label::after {
   position: absolute;
@@ -2446,7 +2446,7 @@ header .logo a {
 #contact input[type="text"]:focus,
 #contact input[type="password"]:focus,
 #contact input[type="email"]:focus {
-  border-color: #ff0077;
+  border-color: #008cff;
   color: #ffffff;
 }
 #contact textarea {
@@ -2454,7 +2454,7 @@ header .logo a {
   padding: 1.8rem 2rem;
 }
 #contact textarea:focus {
-  border-color: #ff0077;
+  border-color: #008cff;
   color: #ffffff;
 }
 #contact button.submitform {
@@ -2532,7 +2532,7 @@ header .logo a {
   color: #ffffff;
 }
 .contact-info h5 {
-  color: #ff0077;
+  color: #008cff;
 }
 
 /**
@@ -2611,7 +2611,7 @@ footer a:visited {
 }
 footer a:hover,
 footer a:focus {
-  color: #ff0077;
+  color: #008cff;
 }
 footer .row {
   max-width: 900px;
@@ -2690,7 +2690,7 @@ footer .copyright span:last-child::after {
   width: 6rem;
   line-height: 6.6rem;
   text-align: center;
-  background: #cc005f;
+  background: #008cff;
   color: #ffffff;
   text-align: center;
   text-transform: uppercase;
